@@ -1,15 +1,15 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Nuclear Power Plant
-  year: 2010
-  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+- award: Star of the moment
+  organization: Tesco
+  year: 2014
+  summary: Awarded for building a Windows app using C# to find prodcut location in store which is being used by over 3000 stores in Thailand.
 
-- award: Duff Beer Customer of the year
-  organization:
-  year: 1997 &mdash; 2001, 2003, 2008 &mdash; 2012
-  summary: Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a> for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed.
+- award: Innovation Champion
+  organization: Tesco
+  year: 2016
+  summary: Recognized for process improvement of business users' tasks by automating consumption and loading of event plan excel sheets into the database via a real time service.
 
-- award: Moe's Patron of the Month
-  organization: 
-  year: 12/2001, 8/2004
-  summary: Specifically this prestigious awarded twice for stopping a robber with my belly.
+- award: Customer Success Award
+  organization: IBM Korea
+  year: 2017
+  summary: For migrating legacy reports onto Tableau Server
