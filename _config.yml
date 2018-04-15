@@ -16,7 +16,7 @@ resume_contact_email:           "rohit3991@gmail.com"
 resume_contact_telephone:       "+82 1049954855"
 resume_contact_address:         "Seoul, South Korea"
 resume_header_contact_info: "Seoul, South Korea | +82 1049954855 | rohit3991@gmail"
-resume_header_intro: "<p>Hi there, I am a data enthusiast working who works primarily in the areas of BI DW, ETL, Data Analytics and Visualization. I help companies building great products and achieve data-driven results.</p>"
+resume_header_intro: "<p>Hi there, I am a data enthusiast working primarily in the areas of BI DW, ETL, Data Analytics and Visualization. I help companies building great products achieve data-driven results.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -32,7 +32,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
@@ -42,7 +42,7 @@ resume_social_links:
   # resume_twitter_url:           "http://twitter.com/robathija"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/robathija"
   resume_instagram_url:         "https://instagram.com/robathija"
   resume_website_url:           "http://bangaloredataguy.blogspot.com"
 resume_print_social_links:      true
