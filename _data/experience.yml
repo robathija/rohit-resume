@@ -1,19 +1,19 @@
 # Jobs
 # IBM Korea
 - company: IBM Korea, Seoul
-  position: Application Developer, Retail Innovation
-  duration: Mar, 2017 &mdash; Present
-  summary: IBM Summary..., include a couple bullet points	<ul class="resume-item-list"><li>Point 1</li><li>Point 2</li><li>Point 3</li></ul>
+  position: Application Developer
+  duration: Mar 2017 &mdash; Present
+  summary: As part of the IBM Cloud Application Innovation team, worked with South Korea's biggest retailer - Homeplus to help improve its effort in Space, Ranging and Display Merchandising and increase sales by using forecasting algorithms<ul class="resume-item-list"><li>Translated business requirements into SQL scripts to be plugged into dashboards and ETL packages</li><li>Consume data from different sources namely teradata, oracle, csv and REST api's to develop packages in SQL</li><li>Making weekly KPI dashboards for stakeholders in Tableau</li></ul>
 
 # Tesco PLC
 - company: Tesco, Bangalore
   position: Software Engineer
-  duration:  Aug, 2013 &mdash; Mar, 2017
-  summary: Tesco Summary.. in progress
+  duration:  Aug 2013 &mdash; Mar 2017
+  summary: Worked with Tesco and its partners across various geographies in Data Integration and Disply Merchandising<ul class="resume-item-list"><li>Involved in development , testing and deployment of SQL Server Integration packages(SSIS) on Cloud (AWS and Azure)</li><li>Worked with business on-shore in London, UK to gather requirements and demo a POC on migration from SQL Sever to Couchbase NoSQL</li>
 
 
 # Sapient
 - company: Sapient, Bangalore
   position: Intern
-  duration:   Dec, 2011  &mdash; Jan, 2012
+  duration:   Dec 2011  &mdash; Jan 2012
   summary: Involved in the UI design of an online stock trading application and helped build dynamic graphing functionality.
