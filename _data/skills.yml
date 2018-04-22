@@ -1,7 +1,7 @@
 # Skills
 # Data
 - skill: Data
-  description: SQL (T-SQL and PL/SQL), NoSQL (Couchbase), HiveQL
+  description: SQL - SQL Server, PostgreSQL, Oracle, NoSQL (Couchbase), HiveQL
 
 # Programming
 - skill: Programming
@@ -9,8 +9,12 @@
 
 # Data Analytics and Visualization
 - skill: Data Analytics and Visualization
-  description: Tableau Desktop and Server, Power BI Desktop
+  description: Tableau Desktop and Server, Power BI Desktop, matplotlib
 
+# Product
+- skill: Product Management
+  description: Requirements Gathering, Strategy and Roadmap Creation, User Stories, Feature Definition, Prototyping, Agile - Scrum & Kanban
+  
 # Tools
 - skill: Tools
   description: Jira, Splunk, AppDynamics, Git
