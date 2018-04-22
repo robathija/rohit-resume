@@ -112,7 +112,7 @@
   background-color: #efefef;
   text-decoration: none;
   text-align: center;
-  display: block;
+  display: inline-block;
   margin: 1.5rem auto;
   width: 220px;
   font-size: 1.375rem;
@@ -127,11 +127,6 @@
   }
 
   &.not-looking { width: 400px; }
-}
-
-//Ranjini
-.button-line {
-display: inline;
 }
 
 // resume content styles
