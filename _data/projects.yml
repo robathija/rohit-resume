@@ -2,9 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Project 1
-- project: Tableau Public Vizzes
+- project: Tableau Public Portfoilo
   url: "https://public.tableau.com/profile/rohit.bathija8638#!/"
-  description: Add dynamic links and images, Project description later
+  description: View some of my Tableau Visualizations and Dashboards
+  image: "images/tableau.jpg"
 
 #Project 2
 - project: Project 2
