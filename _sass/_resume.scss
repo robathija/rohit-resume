@@ -114,11 +114,11 @@
   text-align: center;
   display: block;
   margin: 1.5rem auto;
-  width: 220px;
-  font-size: 1.375rem;
+  width: 200px;
+  font-size: 1.275rem;
   @include sans_light;
   color: #333;
-  line-height: 55px;
+  line-height: 40px;
   @include transition(all .2s ease);
 
   &:hover {
@@ -133,7 +133,7 @@
 .ranjini {
 display: inline-block !important;
 text-align: center;
-margin-left: 10%;
+margin-left: 12%;
 }
 
 // resume content styles
