@@ -2,10 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Project 1
-- project: Sentiment Analysis
-  role: Some details
-  duration: 2012 &mdash; Present
-  # url: "#"
+- project: Tableau Public Vizzes
+  url: "https://public.tableau.com/profile/rohit.bathija8638#!/"
   description: Add dynamic links and images, Project description later
 
 #Project 2
