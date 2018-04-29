@@ -108,12 +108,12 @@
 }
 
 .contact-button {
-  @include border-radius(3px);
+  @include border-radius(5px);
   background-color: #efefef;
   text-decoration: none;
   text-align: center;
   display: block;
-  margin: 1.5rem auto;
+  margin: 1.3rem auto;
   width: 200px;
   font-size: 1.275rem;
   @include sans_light;
