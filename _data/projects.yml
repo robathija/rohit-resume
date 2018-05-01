@@ -12,3 +12,9 @@
   url: "https://www.coursera.org/account/accomplishments/verify/KN4CX9A9G6E5"
   description: A 4 week certification on Tableau by University of California, Davis. More details 
   image: images/tableaucert.JPG
+
+ #Project 3
+- project: Operations Analytics | Wharton, UPenn
+  url: "https://www.coursera.org/account/accomplishments/verify/LF5RE2WLTVX6"
+  description: A 4 week course on Descriptive and Predictive Analytics. More details 
+  image: images/wharton.JPG
