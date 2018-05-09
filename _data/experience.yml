@@ -9,7 +9,7 @@
 - company: Tesco, Bangalore
   position: Software Engineer
   duration:  Aug 2013 &mdash; Mar 2017
-  summary: Worked with Tesco and its partners across various geographies in Data Integration and Disply Merchandising<ul class="resume-item-list"><li>Involved in development , testing and deployment of SQL Server Integration packages (SSIS) on Cloud (AWS and Azure)</li><li>Worked with business on-shore in London, UK to gather requirements and demo a POC on migration from SQL Sever to Couchbase NoSQL</li>
+  summary: Worked with Tesco and its partners across various geographies in Data Integration and Disply Merchandising<ul class="resume-item-list"><li>Involved in development , testing and deployment of SQL Server Integration ETL packages (SSIS) on Cloud (AWS and Azure)</li><li>Creating reports in Microsoft Power BI and SQL Server Reporting Services (SSRS) for business teams to consume daily</li><li>Worked with business on-shore in London, UK to gather requirements and demo a POC on migration from SQL Sever to Couchbase NoSQL</li>
 
 
 # Sapient
