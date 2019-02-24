@@ -2,19 +2,25 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Project 1
-- project: Tableau Public Portfoilo
+- project: Tableau Portfoilo
   url: "https://public.tableau.com/profile/rohit.bathija8638#!/"
   description: View some of my Tableau Visualizations and Dashboards
   image: images/sales.JPG
 
 #Project 2
-- project: Data Visualization with Tableau | UC Davis
+- project: Tableau Certification | UC Davis
   url: "https://www.coursera.org/account/accomplishments/verify/KN4CX9A9G6E5"
-  description: A 4 week certification on Tableau by University of California, Davis. More details 
+  description: A 4 week certification on Tableau by University of California, Davis. Verify 
   image: images/tableaucert.JPG
 
- #Project 3
-- project: Operations Analytics | Wharton, UPenn
+#Project 3
+- project: Data Science Foundations | IBM
+  url: "https://www.youracclaim.com/badges/9d5e585a-aff1-4b42-adee-fc1e5f0841a7/linked_in_profile"
+  description: Industry applications of big data, data science and analytics. More details 
+  image: images/DS.JPG
+  
+ #Project 4
+- project: Operations Analytics | Wharton Business School, UPenn
   url: "https://www.coursera.org/account/accomplishments/verify/LF5RE2WLTVX6"
-  description: A course on the concepts of Descriptive and Predictive Analytics. More details 
+  description: A course on the concepts of Descriptive and Predictive Analytics. View it 
   image: images/wharton.JPG
