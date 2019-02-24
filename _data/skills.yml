@@ -1,19 +1,20 @@
 # Skills
+
+# Product
+- skill: Product Management
+  description: Strategy and Roadmaps, User Stories, Feature Definition, Prototyping, Agile - Scrum & Kanban
+  
 # Data
 - skill: Data
-  description: SQL - SQL Server, PostgreSQL, Oracle, NoSQL (Couchbase), HiveQL
+  description: SQL - SQL Server, PostgreSQL, Oracle, NoSQL (Couchbase), Hive & Spark
 
 # Programming
-- skill: Programming
+- skill: Analytics
   description: Python (numpy, pandas, flask, matplotlib, plotly), R, C# script tasks
 
 # Data Analytics and Visualization
 - skill: Data Visualization
   description: Tableau Desktop and Server, Power BI Desktop
-
-# Product
-- skill: Product Management
-  description: Strategy and Roadmap Creation, User Stories, Feature Definition, Prototyping, Agile - Scrum & Kanban
   
 # Tools
 - skill: Cloud & Tools
