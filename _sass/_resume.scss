@@ -106,7 +106,20 @@
     height: 28px;
   }
 }
-
+.resume-button {
+  @include border-radius(5px);
+  background-color: #c9f8ff;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin: 1.3rem auto;
+  width: 200px;
+  font-size: 1.275rem;
+  @include sans_light;
+  color: #333;
+  line-height: 40px;
+  @include transition(all .2s ease);
+  
 .contact-button {
   @include border-radius(5px);
   background-color: #efefef;
@@ -129,12 +142,6 @@
   &.not-looking { width: 400px; }
 }
 
-//ranj
-.ranjini {
-display: inline-block !important;
-text-align: center;
-margin-left: 12%;
-}
 
 // resume content styles
 
