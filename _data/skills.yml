@@ -5,16 +5,16 @@
 
 # Programming
 - skill: Programming
-  description: Python (numpy, matplotlib,pandas), R, C# script tasks
+  description: Python (numpy, pandas, flask, matplotlib, plotly), R, C# script tasks
 
 # Data Analytics and Visualization
-- skill: Data Analytics and Visualization
+- skill: Data Visualization
   description: Tableau Desktop and Server, Power BI Desktop
 
 # Product
 - skill: Product Management
-  description: Requirements Gathering, Strategy and Roadmap Creation, User Stories, Feature Definition, Prototyping, Agile - Scrum & Kanban
+  description: Strategy and Roadmap Creation, User Stories, Feature Definition, Prototyping, Agile - Scrum & Kanban
   
 # Tools
-- skill: Tools
-  description: Jira, Splunk, AppDynamics, Git
+- skill: Cloud & Tools
+  description: AWS, Azure, Jira, Splunk, AppDynamics, Git

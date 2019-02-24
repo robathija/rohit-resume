@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rohit Bathija"
-resume_title:                   "Hi there!"
+resume_title:                   "Technology Consultant Business Intelligence + Data Analytics & Visualization"
 resume_contact_email:           "rohit3991@gmail.com"
 resume_contact_telephone:       "+82 1049954855"
 resume_contact_address:         "Seoul, South Korea"
@@ -44,7 +44,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/robathija"
   resume_instagram_url:         "https://instagram.com/robathija"
-  resume_website_url:           "http://bangaloredataguy.blogspot.com"
+  # resume_website_url:           "http://bangaloredataguy.blogspot.com"
 resume_print_social_links:      true
 
 # Design settings

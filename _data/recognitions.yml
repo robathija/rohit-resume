@@ -2,7 +2,7 @@
 - award: Quarterly Value Award
   organization: Tesco
   year: 2015
-  summary: Awarded for building a Windows app using C# to find prodcut location in store which is being used by over 3000 stores in Thailand.
+  summary: Awarded for building a Windows app to find prodcut location in store which is being used by over 3000 stores in Tesco Lotus, Thailand.
 
 - award: Innovation Champion
   organization: Tesco
@@ -12,4 +12,4 @@
 - award: Customer Success Award
   organization: IBM Korea
   year: 2017
-  summary: For migrating legacy reports onto Tableau Server
+  summary: For automating business processes and setting up of visual dashboards replacing complex Excel macros

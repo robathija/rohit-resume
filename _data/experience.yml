@@ -1,23 +1,19 @@
 # Jobs
 # IBM Korea
 - company: IBM - Seoul, South Korea
-  position: Technical Specialist
-  duration: Mar 2017 &mdash; Jan 2019
-  summary: As part of the IBM Cloud Application Innovation team, worked with South Korea's biggest retailer to improve its effort in Space, Ranging and Display Merchandising and increase sales by using forecasting algorithms and Data Visualization<ul class="resume-item-list"><li>Translated business requirements into SQL scripts to be plugged into dashboards and ETL packages</li><li>Consume data from different sources namely teradata, oracle, csv and REST api's to develop packages in SQL Server Integration Services</li><li>Visualizing data in Micorsoft Power BI & Tableau Desktop to be consumed by business stakeholders</li></ul>
-  
   position: Senior Technical Specialist
-  duration: Jan 2019 &mdash; Present
-  summary: As part of the IBM Cloud Application Innovation team, worked with South Korea's biggest retailer - Homeplus to help improve its effort in Space, Ranging and Display Merchandising and increase sales by using forecasting algorithms and Data Visualization<ul class="resume-item-list"><li>Translated business requirements into SQL scripts to be plugged into dashboards and ETL packages</li><li>Consume data from different sources namely teradata, oracle, csv and REST api's to develop packages in SQL/SSIS</li><li>'Viz'ing up weekly KPI dashboards for stakeholders in Tableau</li></ul>
-  
+  duration: Mar 2017 &mdash; Present
+  summary: As part of the IBM Cloud Application Innovation team, worked with South Korea's biggest retailer to improve its effort in Space, Ranging and Display Merchandising and increase sales by using forecasting algorithms and Data Visualization<ul class="resume-item-list"><li>Translated business requirements into SQL scripts to be plugged into dashboards and ETL packages</li><li>Consume data from different sources namely teradata, oracle, csv and REST api's to develop packages in SQL Server Integration Services</li><li>Visualizing data in Micorsoft Power BI & Tableau Desktop to be consumed by business stakeholders</li></ul>
+
 # Tesco PLC
-- company: Tesco, Bangalore
+- company: Tesco - Bangalore, India & London, UK
   position: Software Engineer
   duration:  Aug 2013 &mdash; Mar 2017
-  summary: Worked with Tesco and its partners across various geographies in Data Integration and Disply Merchandising<ul class="resume-item-list"><li>Involved in development , testing and deployment of SQL Server Integration ETL packages (SSIS) on Cloud (AWS and Azure)</li><li>Creating reports in Microsoft Power BI and SQL Server Reporting Services (SSRS) for business teams to consume daily</li><li>Worked with business on-shore in London, UK to gather requirements and demo a POC on migration from SQL Sever to Couchbase NoSQL</li>
+  summary: Worked with Tesco and its partners across various geographies in Data Integration and Disply Merchandising<ul class="resume-item-list"><li>Involved in development , testing and deployment of SQL Server Integration ETL packages (SSIS) on Cloud (AWS and Azure)</li><li>Creating reports in Microsoft Power BI and SQL Server Reporting Services (SSRS) for business teams to consume daily</li><li>Worked with business to gather requirements and demo a POC on migration from SQL Sever to Couchbase NoSQL</li>
 
 
 # Sapient
-- company: Sapient, Bangalore
+- company: Publicis Sapient - Bangalore, India
   position: Intern
   duration:   Dec 2011  &mdash; Jan 2012
   summary: Involved in the UI design of an online stock trading application and helped build dynamic graphing functionality.
