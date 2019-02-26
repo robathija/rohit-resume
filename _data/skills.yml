@@ -6,7 +6,7 @@
   
 # Data
 - skill: Data
-  description: SQL - SQL Server, PostgreSQL, Oracle, NoSQL (Couchbase), Hive & Spark
+  description: SQL - SQL Server, PostgreSQL, Oracle, NoSQL (Couchbase), SSIS/SSRS, Azure Data Factory, HiveQL and SparkQL
 
 # Programming
 - skill: Analytics
