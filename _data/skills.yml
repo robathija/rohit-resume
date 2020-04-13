@@ -2,11 +2,11 @@
 
 # Product
 - skill: Product Management
-  description: Strategy and Roadmaps, User Stories, Feature Definition, Prototyping, Agile - Scrum & Kanban
+  description: User Stories, Feature Definition, A/B Testing, Prototyping, Agile - Scrum & Kanban
   
 # Data
 - skill: Data
-  description: SQL - SQL Server, PostgreSQL, Oracle, NoSQL (Couchbase), SSIS/SSRS, Azure Data Factory, HiveQL and SparkQL
+  description: SQL - SQL Server, PostgreSQL, Oracle, NoSQL, SSIS/SSRS, Azure Data Factory, Spark/Hadoop
 
 # Programming
 - skill: Analytics
@@ -14,8 +14,8 @@
 
 # Data Analytics and Visualization
 - skill: Data Visualization
-  description: Tableau Desktop and Server, Power BI Desktop
+  description: Microsoft Power BI, Tableau Desktop, Prep & Server
   
 # Tools
 - skill: Cloud & Tools
-  description: AWS, Azure, Jira, Splunk, AppDynamics, Git
+  description: Azure, AWS, Jira, Splunk, AppDynamics, Git
